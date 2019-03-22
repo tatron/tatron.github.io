@@ -2,8 +2,6 @@
 layout: default
 title: About
 ---
-# About page
-
 <body>
 
 <ul class="sidenav">
