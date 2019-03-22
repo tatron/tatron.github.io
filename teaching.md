@@ -2,8 +2,6 @@
 layout: default
 title: Teaching
 ---
-# Teaching page
-
 <body>
 
 <ul class="sidenav">
