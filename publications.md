@@ -14,6 +14,6 @@ title: Publications
 </ul>
 
 <div>
-<p>This page contains information on my publications.</p>
+<h2>This page contains information on my publications.</h2>
 </div>
 </body>
