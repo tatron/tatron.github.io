@@ -2,8 +2,6 @@
 layout: default
 title: Publications
 ---
-# Publications page
-
 <body>
 <ul class="sidenav">
   <li><a href="/">Home</a></li>
