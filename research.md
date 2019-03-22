@@ -2,8 +2,6 @@
 layout: default
 title: Research
 ---
-# Research page
-
 <body>
 
 <ul class="sidenav">
