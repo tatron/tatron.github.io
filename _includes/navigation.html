@@ -1,7 +1,17 @@
 <nav>
-  <a href="/">Home</a>
-  <a href="/about.html">About</a>
-  <a href="/research.html">Research</a>
-  <a href="/publications.html">Publications</a>
-   <a href="/teaching.html">Teaching</a>
+  <a href="/" {% if page.url == "/" %}style="color: red;"{% endif %}>
+    Home
+  </a>
+  <a href="/about.html" {% if page.url == "/" %}style="color: red;"{% endif %}>
+    About
+  </a>
+  <a href="/research.html" {% if page.url == "/" %}style="color: red;"{% endif %}>
+    Research
+  </a>
+  <a href="/publications.html" {% if page.url == "/" %}style="color: red;"{% endif %}>
+    Publications
+  </a>
+   <a href="/teaching.html" {% if page.url == "/" %}style="color: red;"{% endif %}>
+     Teaching
+  </a>
 </nav>
