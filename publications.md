@@ -6,10 +6,10 @@ title: Publications
 
 <body>
 <ul class="sidenav">
-  <li><a href="#home">Home</a></li>
+  <li><a href="/index.html">Home</a></li>
   <li><a href="/about.html">About</a></li>
   <li><a href="/research.html">Research</a></li>
-  <li><a class="active" href="/publications.html">Publications</a></li>
+  <li><a class="active" href="/">Publications</a></li>
   <li><a href="/teaching.html">Teaching</a></li>
 </ul>
 
