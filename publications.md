@@ -13,7 +13,7 @@ title: Publications
   <li><a href="/teaching.html">Teaching</a></li>
 </ul>
 
-<div>
+<div class="content">
 <h2>This page contains information on my publications.</h2>
 </div>
 </body>
