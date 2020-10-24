@@ -5,7 +5,6 @@ title: About
 <body>
 
 <ul class="sidenav">
-  <li><a href="/">Home</a></li>
   <li><a class="active" href="#about">About</a></li>
   <li><a href="/research.html">Research</a></li>
   <li><a href="/publications.html">Publications</a></li>
