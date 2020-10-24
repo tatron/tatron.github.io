@@ -12,7 +12,7 @@ title: About
 </ul>
   
 <div class="content"> 
-  <img style="float: right;width:300px;height:300px;" src="https://raw.githubusercontent.com/tatron/tatron.github.io/master/IMG_1451(1).jpg" alt="A picture of Joey Tatro">
+  <img style="float: right;width:250px;height:250px;" src="https://raw.githubusercontent.com/tatron/tatron.github.io/master/IMG_1451(1).jpg" alt="A picture of Joey Tatro">
   <p> I am a PhD student in my final year studying Applied Mathematics at Rensselaer Polytechnic Institute. My advisor is <a href="http://homepages.rpi.edu/~lair/">Rongjie Lai</a>. My research interests include: 
   <ul>
     <li> Machine learning </li>
