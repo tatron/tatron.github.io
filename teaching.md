@@ -13,8 +13,9 @@ title: Teaching
 
 <div class="content">
   <h2> Teaching </h2>
+  
   The following contains a list of the courses that I have assisted in at RPI as either a teaching assistant or grading assistant.
-  <table>
+  
 |        Term 	| Course                          	| Position           	|
 |------------:	|---------------------------------	|--------------------	|
 |   Fall 2018 	| Intro to Differential Equations 	| Teaching Assistant 	|
@@ -22,6 +23,6 @@ title: Teaching
 |   Fall 2017 	| Intro to Differential Equations 	| Teaching Assistant 	|
 | Spring 2017 	| Intro to Differential Equations 	| Teaching Assistant 	|
 |   Fall 2016 	| Multivariable Calculus          	| Teaching Assistant 	|
-</table>
+
 </div>
 </body>
