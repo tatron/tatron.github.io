@@ -6,6 +6,7 @@ title: Research
 
 <ul class="sidenav">
   <li><a href="/index.html">About</a></li>
+  <li><a href="/resume.html">Resume</a></li>
   <li><a class="active" href="#research">Research</a></li>
   <li><a href="/publications.html">Publications</a></li>
   <li><a href="/teaching.html">Teaching</a></li>
