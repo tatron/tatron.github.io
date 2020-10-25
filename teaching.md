@@ -6,6 +6,7 @@ title: Teaching
 
 <ul class="sidenav">
   <li><a href="/index.html">About</a></li>
+  <li><a href="/resume.html">Resume</a></li>
   <li><a href="/research.html">Research</a></li>
   <li><a href="/publications.html">Publications</a></li>
   <li><a class="active" href="#teaching">Teaching</a></li>
