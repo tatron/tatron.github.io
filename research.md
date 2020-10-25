@@ -29,11 +29,28 @@ title: Research
   
   I will use this page to occasionally post updates on my research and milestones.
   
-| Milestone                                                                                       	| Date       	|
-|-------------------------------------------------------------------------------------------------	|------------	|
-| First paper acceptance; Optimizing Mode Connectivity at NeurIPS 2020                            	| 09/25/2020 	|
-| First citation; Unsupervised Geometric Disentanglement for Surfaces via CFAN-VAE                	| 08/19/2020 	|
-| First paper uploaded to arXiv; Unsupervised Geometric Disentanglement for Surfaces via CFAN-VAE 	| 05/23/2020 	|
+ <table>
+  <tr>
+    <th>Milestone</th>
+    <th>Details</th>
+    <th>Date</th>
+  </tr>
+  <tr>
+    <td>First paper acceptance</td>
+    <td> Optimizing Mode Connectivity at NeurIPS 2020 </td>
+    <td>09/25/2020</td>
+  </tr>
+  <tr>
+    <td>First citation </td>
+    <td> Unsupervised Geometric Disentanglement for Surfaces via CFAN-VAE </td>
+    <td>08/19/2020</td>
+  </tr>
+  <tr>
+    <td>First paper uploaded to arXiv </td>
+    <td> Unsupervised Geometric Disentanglement for Surfaces via CFAN-VAE </td>
+    <td>05/23/2020</td>
+  </tr>
+</table> 
   
 </div>
 </body>
