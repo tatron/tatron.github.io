@@ -18,13 +18,13 @@ title: Teaching
   
 <table>
   
-|        Term 	| Course                          	| Position           	|
-|------------:	|---------------------------------	|--------------------	|
-|   Fall 2018 	| Intro to Differential Equations 	| Teaching Assistant 	|
-| Spring 2018 	| Fundamentals of Geometry        	| Grading Assistant  	|
-|   Fall 2017 	| Intro to Differential Equations 	| Teaching Assistant 	|
-| Spring 2017 	| Intro to Differential Equations 	| Teaching Assistant 	|
-|   Fall 2016 	| Multivariable Calculus          	| Teaching Assistant 	|
+|        Term| Course                          | Position           |
+|------------|---------------------------------|--------------------|
+|   Fall 2018| Intro to Differential Equations | Teaching Assistant |
+| Spring 2018| Fundamentals of Geometry        | Grading Assistant  |
+|   Fall 2017| Intro to Differential Equations | Teaching Assistant |
+| Spring 2017| Intro to Differential Equations | Teaching Assistant |
+|   Fall 2016| Multivariable Calculus          | Teaching Assistant |
 
 </table>
 
